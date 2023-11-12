@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Text Color",
+        "name": "text_color",
+        "type": "color",
+        "default": {
+            "color": "#000"
+        }
+    },
+    {
+        "label": "Accent Color",
+        "name": "accent_color",
+        "type": "color",
+        "default": {
+            "color": "#eeeeee"
+        }
+    }
+]

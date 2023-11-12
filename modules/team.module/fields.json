@@ -1,0 +1,78 @@
+[
+    {
+        "children": [
+            {
+                "default": {
+                    "size_type": "exact",
+                    "src": "https://44385566.fs1.hubspotusercontent-na1.net/hubfs/44385566/cat%20with%20pedigree.jpeg",
+                    "alt": "cat with pedigree",
+                    "loading": "lazy",
+                    "width": 200,
+                    "height": 148,
+                    "max_width": 1000,
+                    "max_height": 740
+                },
+                "display_width": null,
+                "id": "83a5e4ac-ceb0-8bd0-3ac8-79275c736451",
+                "label": "Member Image",
+                "locked": false,
+                "name": "member_image",
+                "required": false,
+                "resizable": true,
+                "responsive": true,
+                "show_loading": false,
+                "type": "image"
+            },
+            {
+                "allow_new_line": false,
+                "default": "John Doe",
+                "display_width": null,
+                "id": "063fc30f-9e49-cf7e-3211-e36ce31873ee",
+                "label": "Member Name",
+                "locked": false,
+                "name": "member_name",
+                "required": false,
+                "show_emoji_picker": false,
+                "type": "text",
+                "validation_regex": ""
+            },
+            {
+                "allow_new_line": false,
+                "default": "CEO",
+                "display_width": null,
+                "id": "4b0c0a98-cf3e-d9bc-64de-5ee2f3dbf8a5",
+                "label": "Member Position",
+                "locked": false,
+                "name": "member_position",
+                "placeholder": "",
+                "required": false,
+                "show_emoji_picker": false,
+                "type": "text",
+                "validation_regex": ""
+            }
+        ],
+        "default": {
+            "member_image": {
+                "size_type": "exact",
+                "src": "https://44385566.fs1.hubspotusercontent-na1.net/hubfs/44385566/cat%20with%20pedigree.jpeg",
+                "alt": "cat with pedigree",
+                "loading": "lazy",
+                "width": 200,
+                "height": 148,
+                "max_width": 1000,
+                "max_height": 740
+            },
+            "member_name": "John Doe",
+            "member_position": "CEO"
+        },
+        "display_width": null,
+        "expanded": false,
+        "id": "65d1cba3-5742-23d8-6eb9-fb8da90dbcd7",
+        "label": "Team Member",
+        "locked": false,
+        "name": "team_member",
+        "required": false,
+        "tab": "CONTENT",
+        "type": "group"
+    }
+]

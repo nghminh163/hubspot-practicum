@@ -1,0 +1,9 @@
+{
+    "global": false,
+    "host_template_types": [
+        "PAGE"
+    ],
+    "module_id": 145174250778,
+    "label": "Team",
+    "is_available_for_new_content": false
+}
